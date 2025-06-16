@@ -56,13 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "C. Emmett"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Tech and cybersecurity writer with a love of travel"
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://www.linkedin.com/in/clare-emmett-60753047/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Emmett73/"
