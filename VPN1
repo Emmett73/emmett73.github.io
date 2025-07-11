@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>C. Emmett – Portfolio</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background-color: #fafafa;
+      color: #333;
+      max-width: 700px;
+      margin: 5vh auto;
+      padding: 0 1rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.2em;
+    }
+    h2 {
+      margin-top: 2em;
+    }
+    a {
+      color: #005fcc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 4em;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+<h1>Do You Need a Virtual Private Network in 2025?</h1>
+<p>C. Emmett</p> 
+
+
+<p>With the advent of HTTPS as standard and today's more secure, privacy-forward browsers, it's tempting to think that you don't need a VPN anymore. In this article, we'll look at what VPNs can do for you and why you might still need one in 2025.</p>
+<p></p>
+
+<h2>What VPNs Can Do</h2>
+
+<p><i>Traffic encryption</i></p>
+
+<p>When you use a VPN, all traffic between you and the VPN server is encrypted. This means that even if someone gains unauthorised access and intercepts your data, it's still secure.</p> 
+<p></p>
+
+<p><i>IP masking</i></p>
+
+<p>Your IP can connect your activity with a lot of personal data. It can reveal your general location, who your service provider is, and other information that you might not want everyone on the internet to have. With a VPN, you can conceal your IP and even make it look as if you're in a different country entirely. </p>
+<p></p>
+<p><i>Protection on public Wi-Fi</i></p>
+
+<p>Public Wi-Fi comes with a host of risks. Bad actors can set up a fake Wi-Fi node to harvest traffic coming through their router, potentially giving them access to sensitive information or allowing them to place malware on your device. Even if the node you connect to is legitimate, you still can't be certain that it's safe. Operators can see everything that you do online: which sites you visit, how long you stay there, etc. It's also entirely possible for a legitimate node to be compromised, allowing attackers to intercept your data, trick you into downloading malware, and more.</p>
+<p></p>
+
+<p><i>Safety on HTTP Sites</i></p>
+
+<p>Nowadays, nearly every website uses HTTPS. This means that data passing between the website and your browser is encrypted. Not everyone got the memo, however, and there are a few sites that still use HTTP. Data between your browser and these sites is completely unencrypted, sent back and forth as plain text. A VPN encrypts that data, providing at least some security if you have to use an older site that never got updated.</p>
+<p></p>
+
+
+<h2>What VPNs Can't Do</h2>
+<p></p>
+<ul>
+	<li>Give you absolute anonymity in all circumstances: While a VPN offers privacy, you need to be cautious and familiarise yourself with your VPN's logging policy.</li>
+ 
+	<li>Protect you against all forms of attack: Even with a VPN, you're still vulnerable to some types of attack. Malicious cookies, browser fingerprinting and other attacks that don't require access to your internet traffic are still possible. You're still at risk of social engineering attacks, such as phishing.</li>
+
+	<li>Open up unlimited streaming: It's certainly true that a VPN can change your apparent location and could, in principle, allow you to view region-locked content on streaming platforms. This is often touted as one of their primary benefits. You should be cautious if you try to do this, though. Many streaming services specifically prohibit this kind of workaround, and may ban your account if they catch you changing your location with a VPN to access content that's not available where you live. Many now block traffic from VPNs. </li>
+
+<li>Allow dubious torrenting: A VPN can provide privacy and security when using torrent sites. If you break the law by downloading pirated media, it's still a crime even if you cover your tracks. You should only download files that are legal where you live, even with a VPN in place.</li>
+
+<li>Evade censorship: If an organisation's blocking policy is overzealous, you may be able to use a VPN to visit blocked sites. That said, be aware that some organisations will take a dim view of this and ensure that you understand all the relevant policies before you try. The same goes for using a VPN in countries with restrictive laws governing internet use. You may be breaking the law if you visit banned sites, or even if you use a VPN at all. Make sure you fully understand your legal position before doing something that could get you into serious trouble. </li>
+</ul>
+<p></p>
+
+<h2>Things to Remember</h2>
+<p>A VPN can be a powerful addition to your privacy and security arsenal -- but it's not the whole arsenal. You should still ensure that you have up-to-date security measures, use a browser that you can trust, and take steps to avoid social engineering attacks.</p>
+<p>You should also keep in mind that not all VPNs are created equal. Choose a reliable provider and make sure you understand their policies and protocols. Is their encryption strong enough? What are their logging policies? Is the service stable and easy to use?</p> 
+<p>You still need a VPN, especially if you regularly connect to public Wi-Fi. That said, a VPN isn't all you need, and you should exercise judgment in choosing a provider.</p> 
+
+ 
+
+
+
+
+
+
+
+	
